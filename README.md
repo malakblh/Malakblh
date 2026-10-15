@@ -7,6 +7,6 @@ that connect AI to the real world.
 ## 🔧 What I work with
 Python · SQL / Oracle · Apache Spark · Delta Lake · Apache Iceberg · Docker · Flask · YOLOv8 · OpenCV
 ## 📫 Contact
-[LinkedIn](link) · malakblh22@gmail.com
+[LinkedIn](https://www.linkedin.com/in/malak-belarouche-b0377b442/) · malakblh22@gmail.com
 
 *Open to internships and junior roles in data science / AI.*
